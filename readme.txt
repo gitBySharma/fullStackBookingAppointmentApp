@@ -1,0 +1,1 @@
+initial version of the fullStack bookingAppointment app. I will be adding more features to this later on. 
